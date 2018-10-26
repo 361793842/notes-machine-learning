@@ -61,7 +61,7 @@
         - [2.4.1. 最大似然和充分统计量](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.1-最大似然和充分统计量)
         - [2.4.2. 共轭先验](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.2-共轭先验)
         - [2.4.3. 无信息先验](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-04-The-Exponential-Family.ipynb#2.4.3-无信息先验)
-    - [2.5. 非参数方法](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5 非参数方法)
+    - [2.5. 非参数方法](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb)
         - [2.5.1. 核密度估计量](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.1-核密度估计量)
         - [2.5.2. 近邻方法](Pattern-Recognition-and-Machine-Learning/Chap-02-Probability-Distributions/02-05-Nonparametric-Methods.ipynb#2.5.2-近邻方法)
 - [3. 线性回归模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression)        
@@ -72,7 +72,13 @@
         - [3.1.4. 带正则的最小二乘](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.4-带正则的最小二乘)
         - [3.1.5. 多维输出](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-01-Linear-Basis-Function-Models.ipynb#3.1.5-多维输出)
     - [3.2 Bias-Variance 分解](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-02-The-Bias-Variance-Decomposition.ipynb)
-        
+    - [3.3 Bayes 线性回归](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb)
+        - [3.3.1. 参数的分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.1-参数的分布)
+        - [3.3.2. 预测值的分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.2-预测值的分布)
+        - [3.3.3. 等价核](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.3-等价核)
+    - [3.4 贝叶斯模型的比较](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-04-Bayesian-Model-Comparison.ipynb)
+- [4. 线性分类模型](Pattern-Recognition-and-Machine-Learning/Chap-04-Linear-Models-for-Classification)
+    - [4.1 判别函数](Pattern-Recognition-and-Machine-Learning/Chap-04-Linear-Models-for-Classification/04-01-Discriminant-Functions.ipynb)
 
 ### 第二部分 DP 笔记
 
@@ -85,10 +91,11 @@
         - [2.5 范数](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-05-Norms.ipynb)
         - [2.6 特殊矩阵和向量](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-06-Special-Kinds-of-Matrices-and-Vectors.ipynb)
         - [2.7 特征值分解](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-07-Eigendecomposition.ipynb)
-        - [2.8 奇异值分解](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-07-Singular-Value-Decomposition.ipynb)
+        - [2.8 奇异值分解](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-08-Singular-Value-Decomposition.ipynb)
         - [2.9 Moore-Penrose 伪逆](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-09-The-Moore-Penrose-Pseudoinverse.ipynb)
         - [2.10 矩阵的迹](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-10-The-Trace-Operator.ipynb)
         - [2.11 行列式](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-11-The-Determinant.ipynb)
+        - [2.12 例子：主成分分析](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-12-Example-Principal-Components-Analysis.ipynb)
 
 ----
 
@@ -96,4 +103,4 @@
 
 [1] Christopher, M. Bishop. "Pattern recognition and machine learning." Company New York 16.4 (2006): 049901.
 
-[2] Bengio Y, Goodfellow I J, Courville A. Deep learning[J]. An MIT Press book in preparation. Draft chapters available at http://www.iro.umontreal.ca/∼bengioy/dlbook, 2015.
+[2] Goodfellow I, Bengio Y, Courville A. Deep learning[J]. 2015, 2016.
